@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="164.571mm" height="27.8922mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 17269 2927"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FF6633}
+    .fil1 {fill:#FF6633;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+
+  <path class="fil0" d="M8569 400c377,-42 683,242 716,562 38,370 -246,659 -585,692 -379,37 -683,-239 -717,-562 -39,-373 244,-653 586,-692zm65 2527c68,-54 350,-436 412,-519 198,-266 434,-667 541,-1004 164,-515 -18,-1025 -462,-1275 -463,-261 -1015,-108 -1315,296 -508,687 132,1602 547,2165 45,61 92,116 137,174l140 163z"/>
+  <path class="fil1" d="M0 1395l6617 0 0 137 -6617 0 0 -137zm10652 0l6617 0 0 137 -6617 0 0 -137z"/>
+ </g>
+</svg>

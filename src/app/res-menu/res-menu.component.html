@@ -1,0 +1,19 @@
+
+<div class="wrapper vertical-center">
+
+  <div class="box">
+    <div class="col-md-8">
+      <div class="title">
+        <h1>Nasza oferta</h1>
+        <img src="assets/img/separator3.svg" alt="separator">  
+      </div>
+
+      <div class="col-md-6" *ngFor="let pos of m_pos">
+        <h1>{{pos.nazwa}}</h1>
+        <p>{{pos.skladniki}}</p>
+      </div>
+    </div>
+    <div class="col-md-4">
+    </div>
+  </div>
+</div>
