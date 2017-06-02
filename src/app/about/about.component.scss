@@ -28,11 +28,9 @@
 }
 
 .photo{
-  background-image: url('/assets/img/about.jpg');
   height: 100%;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  overflow: hidden;
+  padding: 0;
 }
 //all and (orientation: landscape)
 @media screen and (max-width:767px){
